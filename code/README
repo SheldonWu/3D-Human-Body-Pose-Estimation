@@ -1,0 +1,7 @@
+README
+
+To setup the virtual environment execute the following in order: 
+>> virtualenv .env 
+>> source .env/bin/activate
+>> pip install -r requirements.txt
+>> python vgg16.py
