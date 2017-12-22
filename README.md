@@ -1,5 +1,5 @@
 # 3D-Human-Body-Pose-Estimation
-3D Human Pose Estimation from Fish-eye Lens using Deep Cnvolutional Neural Networks.
+3D Human Pose Estimation from Fish-eye Lens using Deep Convolutional Neural Networks.
 
 This work was based off the following paper: https://arxiv.org/pdf/1609.07306.pdf
 
