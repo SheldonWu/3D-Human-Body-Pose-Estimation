@@ -5,7 +5,6 @@ Based off example from Aymeric Damien (https://github.com/aymericdamien/TensorFl
 
 Copyright 2017
 Simon Kalouche
-Qoowa Inc.
 '''
 
 from __future__ import print_function
